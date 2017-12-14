@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:def xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:defM>
+			<sp:term>Scenari OptimOffice</sp:term>
+		</of:defM>
+		<sp:def>
+			<of:sTxt>
+				<sc:para xml:space="preserve">Logiciel de rédaction de <sc:inlineStyle role="emphasis">supports</sc:inlineStyle> WEB, papier, diaporama. <sc:inlineStyle role="emphasis">Utilité</sc:inlineStyle> : harmonisation de la structure du plan, ré-utilisation des supports</sc:para>
+			</of:sTxt>
+		</sp:def>
+	</of:def>
+</sc:item>

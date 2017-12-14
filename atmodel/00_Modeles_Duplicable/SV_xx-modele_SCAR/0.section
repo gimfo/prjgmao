@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>Situation de vie x : &lt;libellé&gt;</sp:title>
+		</of:sectionM>
+		<sp:sec sc:refUri="/00_Modeles_Duplicable/SV_xx-modele_SCAR/1-Diagramme_env.section"/>
+		<sp:sec sc:refUri="/00_Modeles_Duplicable/SV_xx-modele_SCAR/2-FP.section"/>
+		<sp:sec sc:refUri="/00_Modeles_Duplicable/SV_xx-modele_SCAR/3-FS.section"/>
+		<sp:sec sc:refUri="/00_Modeles_Duplicable/SV_xx-modele_SCAR/4-FC.section"/>
+	</of:section>
+</sc:item>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:def xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:defM>
+			<sp:term>RESP-Proj-GIM</sp:term>
+		</of:defM>
+		<sp:def>
+			<of:sTxt>
+				<sc:para xml:space="preserve">Coordinateur des projets dans le département GIM.</sc:para>
+				<sc:itemizedList>
+					<sc:listItem>
+						<sc:para xml:space="preserve">Garant du cadrage du projet dans le respect du PPN (Cadre National) --&gt; <sc:inlineStyle role="emphasis">Contenu du programme</sc:inlineStyle></sc:para>
+					</sc:listItem>
+					<sc:listItem>
+						<sc:para xml:space="preserve">Informe le conseil de département dirigé par le <sc:inlineStyle role="emphasis">chef du département</sc:inlineStyle> GIM (CDG) --&gt; Demande de budget</sc:para>
+					</sc:listItem>
+					<sc:listItem>
+						<sc:para xml:space="preserve">Coordonne l'organisation du projet dans l'année avec le <sc:inlineStyle role="emphasis">Directeur des études</sc:inlineStyle> (DDE) --&gt; Planification des séances dans l'EDT</sc:para>
+					</sc:listItem>
+					<sc:listItem>
+						<sc:para xml:space="preserve">Organisation des soutenances de projet, porte l'exigence des livrables écrits dans le respect du PPN (Structure du rapport de projet) en relation avec les <sc:inlineStyle role="emphasis">enseignants</sc:inlineStyle> des modules de TEC (Techniques d'expression et de communication) --&gt; <sc:inlineStyle role="emphasis">Contenu des modules TEC</sc:inlineStyle></sc:para>
+					</sc:listItem>
+				</sc:itemizedList>
+			</of:sTxt>
+		</sp:def>
+	</of:def>
+</sc:item>

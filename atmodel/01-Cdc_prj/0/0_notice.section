@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>Pourquoi un CdCF du besoin</sp:title>
+		</of:sectionM>
+		<sp:content>
+			<of:fragment>
+				<sp:info>
+					<of:block>
+						<of:blockM>
+							<sp:title>Pourquoi un Cahier des Charges Fonctionnel ?</sp:title>
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">Plus qu'un “modèle” de cahier des charges (il existe de nombreuses manières de rédiger un cahier des charges selon les métiers, par exemple pour un site web), ce document est destiné à guider le chef de projet dans l'expression du besoin.</sc:para>
+										<sc:para xml:space="preserve">Il est :</sc:para>
+										<sc:itemizedList>
+											<sc:listItem>
+												<sc:para xml:space="preserve">rédigé avant le lancement ou au tout début du projet : pour obtenir un consensus et formaliser le besoin</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">validé officiellement pour obtenir l'approbation du client afin de “contractualiser” les attendus</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">un point de référence pour gérer les révisions et l'évolution des besoins, pour cela on fait des mises à jour et des renégociations en cours de projet</sc:para>
+											</sc:listItem>
+										</sc:itemizedList>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+				<sp:info>
+					<of:block>
+						<of:blockM/>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">Modèle à télécharger au format WORD : <sc:phrase role="url"><of:urlM><sp:url>https://drive.google.com/file/d/1oOGHVd9tXv4QnKg1kFfGio46jexKYuKP/view?usp=sharing</sp:url></of:urlM>https://drive.google.com/file/d/1oOGHVd9tXv4QnKg1kFfGio46jexKYuKP/view?usp=sharing</sc:phrase></sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+			</of:fragment>
+		</sp:content>
+	</of:section>
+</sc:item>

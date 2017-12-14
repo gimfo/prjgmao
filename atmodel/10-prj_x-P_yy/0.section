@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>Sommaire - prj_x-P_yy - RESP</sp:title>
+		</of:sectionM>
+		<sp:sec sc:refUri="/10-prj_x-P_yy/1_CdCF/0.section"/>
+	</of:section>
+</sc:item>

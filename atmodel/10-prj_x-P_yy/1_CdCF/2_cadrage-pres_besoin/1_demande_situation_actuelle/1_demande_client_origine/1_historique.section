@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>Historique et état de l'existant</sp:title>
+		</of:sectionM>
+		<sp:content>
+			<of:fragment>
+				<sp:emphasis>
+					<of:block>
+						<of:blockM>
+							<sp:title>Besoin identifié</sp:title>
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">Le <sc:uLink role="def" sc:refUri="/00_references/JURY_GIM.refs">Jury GIM</sc:uLink> doit délivrer une note dans le module projet en respectant le cadre du PPN.</sc:para>
+										<sc:para xml:space="preserve">Cette note sera la moyenne de 3 notes :</sc:para>
+										<sc:itemizedList>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Rapport de projet écrit.</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Soutenance de projet orale.</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Note de travail proposée par le <sc:uLink role="def" sc:refUri="/00_references/TUTEUR_projet.refs">TUTEUR-Proj-GIM</sc:uLink> validée ou ajustée par le <sc:uLink role="def" sc:refUri="/00_references/JURY_GIM.refs">Jury GIM</sc:uLink> en fonction de critères comme la difficulté du sujet, l'autonomie, le respect de méthodes de travail, la mise en oeuvre d'outils spécialisés de <sc:uLink role="def" sc:refUri="/00_references/ETUDIANT-P_xx.refs">ETUDIANT</sc:uLink></sc:para>
+											</sc:listItem>
+										</sc:itemizedList>
+										<sc:para xml:space="preserve">L'objectif recherché par la note est de jauger l'aptitude proche de l'étudiant à une bonne insertion professionnelle.</sc:para>
+										<sc:para xml:space="preserve">à la note sur les thématiques suivantes qui devront être abordées dans les livrables </sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:emphasis>
+				<sp:info>
+					<of:block>
+						<of:blockM>
+							<sp:title>Dépendances liées à aborder dans les livrables</sp:title>
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:itemizedList>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Gestion de projet (CdCF, gestion des tâches, jalons ou dates butoir, planification des moyens humains et matériels)</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Communication (inter-projet, avec les parties prenantes, extra projet) : réunion, rdv, etc</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Organisation (structure homogène des livrables entre les projets basée sur le respect d'un modèle)</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Outils de rédaction (doit permettre le travail collaboratif, doit permettre la ré-utilisation)</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">Capacité à mettre en oeuvre une solution technique (choix d'une méthode, d'une technologie, etc ...)</sc:para>
+											</sc:listItem>
+										</sc:itemizedList>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+				<sp:info>
+					<of:block>
+						<of:blockM>
+							<sp:title>Compétences techniques</sp:title>
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">Le jury appréciera des informations concernant les compétences techniques déjà acquises, en cours d'acquisition, manquantes ainsi que tout ce qui ressort du vécu personnel pendant le projet. Il ne juge par d'un quelconque niveau à atteindre dans une discipline quelconque. qui reste l'objectif des autres unités d'enseignement.</sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+				<sp:info>
+					<of:block>
+						<of:blockM>
+							<sp:title>Spécificité de la note de travail</sp:title>
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">Un Prestataire est rémunéré par son client selon une facture qui définit la nature de la prestation.</sc:para>
+										<sc:para xml:space="preserve">L'<sc:uLink role="def" sc:refUri="/00_references/ETUDIANT-P_xx.refs">étudiant</sc:uLink> sera noté par le jury(<sc:uLink role="def" sc:refUri="/00_references/TUTEUR_projet.refs">TUTEUR-Proj-GIM</sc:uLink>) selon l'échéancier des heures justifiées par une activité liée au projet.</sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+			</of:fragment>
+		</sp:content>
+	</of:section>
+</sc:item>

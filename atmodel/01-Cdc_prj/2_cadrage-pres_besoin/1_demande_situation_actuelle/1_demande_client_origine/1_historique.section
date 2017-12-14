@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>Historique et état de l'existant</sp:title>
+		</of:sectionM>
+		<sp:content>
+			<of:fragment>
+				<sp:info>
+					<of:block>
+						<of:blockM>
+							<!--<comment xmlns="scenari.eu:comment:1.0" type="thread"><comment creationTime="1512996992548" updateTime="1513074514438">on précisera les différents besoins liés au sous-projet</comment><comment creationTime="1513074470668">on précisera ici les solutions actuelles si elles existent</comment></comment>-->
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">...</sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+			</of:fragment>
+		</sp:content>
+	</of:section>
+</sc:item>

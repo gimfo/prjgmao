@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>Fonctions contraintes - FC</sp:title>
+		</of:sectionM>
+		<sp:content>
+			<of:fragment>
+				<sp:info>
+					<of:block>
+						<of:blockM>
+							<!--<comment xmlns="scenari.eu:comment:1.0" type="thread"><comment creationTime="1513088126896" updateTime="1513099866077">Section regroupant les fonctions de contrainte FC</comment><comment creationTime="1513090393900" updateTime="1513099902636">Dupliquez l'espace F_Modele puis renommez le avec le nom FC_yy avec yy le n° de la fonction (de 1 à n par nature de fonction)
+Remplacez la section F-0 du dossier F-Modele par la section F-0 de votre nouvel espace et liez les sections de ce dossier comme suit</comment></comment>-->
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">Attention à bien modifier les titres des sections de l'espace dupliqué :</sc:para>
+										<sc:para xml:space="preserve">Si on a un espace nommé FC_04, alors le code et le libellé doivent être modifié dans les sections F-0, F-1 et F-2</sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+			</of:fragment>
+		</sp:content>
+		<sp:sec sc:refUri="/00_Modeles_Duplicable/SV_xx-modele_SCAR/F-Modele/F-0.section"/>
+	</of:section>
+</sc:item>

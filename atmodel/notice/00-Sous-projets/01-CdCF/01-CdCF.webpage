@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:page xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:pageM>
+			<sp:title>SP-01-01 : CdCF</sp:title>
+		</of:pageM>
+		<sp:main>
+			<of:section>
+				<of:sectionM>
+					<sp:title>Vos jalons</sp:title>
+				</of:sectionM>
+			</of:section>
+		</sp:main>
+		<sp:subPage sc:refUri="/10-prj_x-P_yy/0.section"/>
+	</of:page>
+</sc:item>

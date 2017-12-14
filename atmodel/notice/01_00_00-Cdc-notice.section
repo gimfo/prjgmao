@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>Notice (CdCF)</sp:title>
+		</of:sectionM>
+		<sp:sec sc:refUri="/notice/01_01_00-Auteurs_Expression_besoin-notice.section"/>
+		<sp:sec sc:refUri="/notice/01_02_00-Pres_Gen-notice.section"/>
+	</of:section>
+</sc:item>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>FP_01 : éléments simples</sp:title>
+		</of:sectionM>
+		<sp:content>
+			<of:fragment>
+				<sp:info>
+					<of:block>
+						<of:blockM>
+							<!--<comment xmlns="scenari.eu:comment:1.0" type="thread"><comment creationTime="1513087068774">Caractériser chaque fonction : décomposer chaque fonction en éléments simples et caractériser chaque élément.</comment></comment>-->
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">...</sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+			</of:fragment>
+		</sp:content>
+	</of:section>
+</sc:item>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:eventList xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:eventListM>
+			<sp:title>Répertoire du dossier projet</sp:title>
+		</of:eventListM>
+		<sp:event>
+			<of:event>
+				<of:eventM>
+					<sp:title>Cahier des charges Fonctionnel</sp:title>
+				</of:eventM>
+				<sp:co>
+					<of:flow>
+						<sp:txt>
+							<of:txt>
+								<sc:para xml:space="preserve">13 Décembre 2018</sc:para>
+							</of:txt>
+						</sp:txt>
+					</of:flow>
+				</sp:co>
+			</of:event>
+		</sp:event>
+		<sp:event>
+			<of:event>
+				<of:eventM>
+					<sp:title>Répertoire du dossier technique</sp:title>
+				</of:eventM>
+				<sp:co>
+					<of:flow>
+						<sp:txt>
+							<of:txt>
+								<sc:para xml:space="preserve">13 Décembre 2018</sc:para>
+							</of:txt>
+						</sp:txt>
+					</of:flow>
+				</sp:co>
+			</of:event>
+		</sp:event>
+		<sp:event>
+			<of:event>
+				<of:eventM>
+					<sp:title>Validation CdCF</sp:title>
+				</of:eventM>
+				<sp:co>
+					<of:flow>
+						<sp:txt>
+							<of:txt>
+								<sc:para xml:space="preserve">15 Janvier 2018</sc:para>
+							</of:txt>
+						</sp:txt>
+					</of:flow>
+				</sp:co>
+			</of:event>
+		</sp:event>
+		<sp:event>
+			<of:event>
+				<of:eventM>
+					<sp:title>prj_x-Pyy</sp:title>
+					<sp:date>30 Mars</sp:date>
+				</of:eventM>
+				<sp:co>
+					<of:flow>
+						<sp:txt>
+							<of:txt>
+								<sc:para xml:space="preserve">Jury GIM évaluation du Projet personnel associé au projet x et à la personne Pyy</sc:para>
+							</of:txt>
+						</sp:txt>
+					</of:flow>
+				</sp:co>
+			</of:event>
+		</sp:event>
+	</of:eventList>
+</sc:item>

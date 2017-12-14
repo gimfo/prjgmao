@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>Demande et Situation Actuelle</sp:title>
+		</of:sectionM>
+		<sp:content>
+			<of:fragment>
+				<sp:info>
+					<of:block>
+						<of:blockM/>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">Demande d'origine du client</sc:para>
+										<sc:itemizedList>
+											<sc:listItem>
+												<sc:para xml:space="preserve">historique et état de l'existant (solutions actuelles)</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">hypothèses et conditions à remplir pour le démarrage du projet</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">importance de la réponse au besoin (contribution au plan stratégique du commanditaire par exemple).</sc:para>
+											</sc:listItem>
+										</sc:itemizedList>
+										<sc:para xml:space="preserve">● Références / projets similaires</sc:para>
+										<sc:itemizedList>
+											<sc:listItem>
+												<sc:para xml:space="preserve">documents existants de ce projet charte de projet, lettre de mission etc..</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">documents existants des autres projets ou d'autres sources : études de marché, post-mortem des projets précédents ...</sc:para>
+											</sc:listItem>
+										</sc:itemizedList>
+										<sc:para xml:space="preserve">● Ce qui marche / ce qui ne marche pas :</sc:para>
+										<sc:itemizedList>
+											<sc:listItem>
+												<sc:para xml:space="preserve">solutions déjà explorées, exclues</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">solutions conseillées, mises en oeuvre par les concurrents</sc:para>
+											</sc:listItem>
+										</sc:itemizedList>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+			</of:fragment>
+		</sp:content>
+	</of:section>
+</sc:item>

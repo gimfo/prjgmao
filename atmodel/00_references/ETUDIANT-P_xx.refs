@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:def xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:defM>
+			<sp:term>ETUDIANT</sp:term>
+		</of:defM>
+		<sp:def>
+			<of:sTxt>
+				<sc:para xml:space="preserve">Un étudiant est identifié par un <sc:phrase role="url"><of:urlM><sp:url>https://drive.google.com/open?id=1T7X-1DfT1GkEZY-JakOZ9LFZ8CJxIKmdyH1yDUfzuJw</sp:url><sp:title>Lien google drive (commentaires possibles)</sp:title></of:urlM>code P-xx</sc:phrase>. Cet identifiant sera utilisé dans les différents documents rédigés par l'étudiant. Ce sera aussi l'identifiant de son rôle d'intervenant dans le cadre de la GMAO. Un étudiant pourra être simple membre et jouer le rôle de Chef de projet dans le cadre de mini-projets.</sc:para>
+			</of:sTxt>
+		</sp:def>
+	</of:def>
+</sc:item>

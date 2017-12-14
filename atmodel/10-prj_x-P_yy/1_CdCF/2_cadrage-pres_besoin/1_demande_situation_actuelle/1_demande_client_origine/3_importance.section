@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>Importance de la réponse</sp:title>
+		</of:sectionM>
+		<sp:content>
+			<of:fragment>
+				<sp:info>
+					<of:block>
+						<of:blockM>
+							<!--<comment xmlns="scenari.eu:comment:1.0" type="thread"><comment creationTime="1512996992548" updateTime="1512997338946">○	importance de la réponse au besoin (contribution au plan stratégique du commanditaire par exemple).</comment></comment>-->
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">Les livrables liés au projet peuvent servir au <sc:uLink role="def" sc:refUri="/00_references/CLIENT_demandeur_payeur_projet.refs">département</sc:uLink> :</sc:para>
+										<sc:itemizedList>
+											<sc:listItem>
+												<sc:para xml:space="preserve">étudiants en cours de formation (prendre connaissance à titre d'exemple ou de modèle, poursuivre un projet dans le futur)</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">futurs étudiants  (information)</sc:para>
+											</sc:listItem>
+										</sc:itemizedList>
+										<sc:para xml:space="preserve">Le jury exploite le projet pour identifier les points faibles / points forts observés tout au long du projet de façon à ce que l'étudiant puisse se préparer au mieux au STAGE EN ENTREPRISE (missions, responsabilités, autonomie, évaluation finale).</sc:para>
+										<sc:para xml:space="preserve">Le STAGE contrairement au projet a un impact important sur l'image de marque du département vis à vis de ses partenaires industriels.</sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+			</of:fragment>
+		</sp:content>
+	</of:section>
+</sc:item>

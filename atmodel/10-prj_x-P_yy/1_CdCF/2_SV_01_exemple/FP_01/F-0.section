@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>FP_01 : &lt;libellé&gt;</sp:title>
+		</of:sectionM>
+		<sp:sec sc:refUri="/10-prj_x-P_yy/1_CdCF/2_SV_01_exemple/FP_01/F-1-critères.section"/>
+		<sp:sec sc:refUri="/10-prj_x-P_yy/1_CdCF/2_SV_01_exemple/FP_01/F-2-elements.section"/>
+	</of:section>
+</sc:item>

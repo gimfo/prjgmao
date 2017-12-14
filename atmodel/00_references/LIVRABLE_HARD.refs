@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:def xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:defM>
+			<sp:term>Livrable HARD</sp:term>
+		</of:defM>
+		<sp:def>
+			<of:sTxt>
+				<sc:para xml:space="preserve">matériels (installations physiques) :</sc:para>
+				<sc:itemizedList>
+					<sc:listItem>
+						<sc:para xml:space="preserve">prototype (essais-tests)</sc:para>
+					</sc:listItem>
+					<sc:listItem>
+						<sc:para xml:space="preserve">maquette pédagogique (conception)</sc:para>
+					</sc:listItem>
+					<sc:listItem>
+						<sc:para xml:space="preserve">matériel pédagogique (achetée)</sc:para>
+					</sc:listItem>
+					<sc:listItem>
+						<sc:para xml:space="preserve">système multi-technique</sc:para>
+					</sc:listItem>
+				</sc:itemizedList>
+			</of:sTxt>
+		</sp:def>
+	</of:def>
+</sc:item>

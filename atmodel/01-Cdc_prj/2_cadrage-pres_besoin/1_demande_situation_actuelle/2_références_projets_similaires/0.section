@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>Références / Projets similaires</sp:title>
+		</of:sectionM>
+		<sp:sec sc:refUri="/01-Cdc_prj/2_cadrage-pres_besoin/1_demande_situation_actuelle/2_références_projets_similaires/1_docs_existants_projet.section"/>
+		<sp:sec sc:refUri="/01-Cdc_prj/2_cadrage-pres_besoin/1_demande_situation_actuelle/2_références_projets_similaires/2_docs_existants_autres_projets.section"/>
+	</of:section>
+</sc:item>

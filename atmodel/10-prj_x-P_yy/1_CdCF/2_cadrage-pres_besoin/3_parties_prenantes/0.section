@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>Parties prenantes</sp:title>
+		</of:sectionM>
+		<sp:content>
+			<of:fragment>
+				<sp:info>
+					<of:block>
+						<of:blockM>
+							<sp:title><!--<comment xmlns="scenari.eu:comment:1.0" type="thread"><comment creationTime="1513005691875">L'objectif de cette partie est de recenser exhaustivement tous les acteurs concernés par le projet et ses conséquences</comment><comment creationTime="1513005743545">. On veillera à inclure dans le groupe d'expression du besoin qui rédige ce cahier des charges des représentants </comment></comment>-->Commanditaires</sp:title>
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:itemizedList>
+											<sc:listItem>
+												<sc:para xml:space="preserve"><sc:uLink role="def" sc:refUri="/00_references/JURY_GIM.refs">Jury GIM</sc:uLink></sc:para>
+											</sc:listItem>
+										</sc:itemizedList>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+				<sp:info>
+					<of:block>
+						<of:blockM>
+							<sp:title><!--<comment xmlns="scenari.eu:comment:1.0" type="thread"><comment creationTime="1513006164153">xx est le code de l'étudiant attribué l'année dernière</comment></comment>-->Membres du projet</sp:title>
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">P-xx : {Nom de l'étudiant}</sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+				<sp:info>
+					<of:block>
+						<of:blockM>
+							<sp:title><!--<comment xmlns="scenari.eu:comment:1.0" type="thread"><comment creationTime="1513005968290">Technicien département, enseignants, autres prestatires, consultants, etc ...</comment></comment>-->Ressources techniques</sp:title>
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">Carine Faivre</sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+				<sp:info>
+					<of:block>
+						<of:blockM>
+							<sp:title><!--<comment xmlns="scenari.eu:comment:1.0" type="thread"><comment creationTime="1513015242163">Un enseignant qui exploite des documents ou un prototype dans ses cours</comment><comment creationTime="1513015273808">Une personne physique ou une sociétépour ses besoins propres</comment><comment creationTime="1513015303120">Des étudiants qui poursuivent un projet</comment></comment>-->Utilisateurs finaux</sp:title>
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">...</sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+			</of:fragment>
+		</sp:content>
+	</of:section>
+</sc:item>

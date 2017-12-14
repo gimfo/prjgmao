@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:fragment xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<sp:emphasis>
+			<of:block>
+				<of:blockM>
+					<sp:title>Objet</sp:title>
+				</of:blockM>
+				<sp:co>
+					<of:flow>
+						<sp:txt>
+							<of:txt>
+								<sc:para xml:space="preserve">Description du rôle/fonctions de <sc:uLink role="def" sc:refUri="/00_references/RESP_PRJ_GIM-FO.refs">RESP-Proj-GIM</sc:uLink></sc:para>
+							</of:txt>
+						</sp:txt>
+					</of:flow>
+				</sp:co>
+			</of:block>
+		</sp:emphasis>
+		<sp:info>
+			<of:block>
+				<of:blockM>
+					<sp:title>Garant PPN</sp:title>
+				</of:blockM>
+				<sp:co>
+					<of:flow>
+						<sp:txt>
+							<of:txt>
+								<sc:para xml:space="preserve">PPN du projet - Interaction avec le module PPP</sc:para>
+							</of:txt>
+						</sp:txt>
+					</of:flow>
+				</sp:co>
+			</of:block>
+		</sp:info>
+		<sp:info>
+			<of:block>
+				<of:blockM>
+					<sp:title>Conseil de département GIM</sp:title>
+				</of:blockM>
+				<sp:co>
+					<of:flow>
+						<sp:txt>
+							<of:txt>
+								<sc:para xml:space="preserve">Budget prévisionnel</sc:para>
+								<sc:para xml:space="preserve">Engagement des dépenses</sc:para>
+							</of:txt>
+						</sp:txt>
+					</of:flow>
+				</sp:co>
+			</of:block>
+		</sp:info>
+		<sp:info>
+			<of:block>
+				<of:blockM>
+					<sp:title>DDE</sp:title>
+				</of:blockM>
+				<sp:co>
+					<of:flow>
+						<sp:txt>
+							<of:txt>
+								<sc:para xml:space="preserve">Agenda GIM2</sc:para>
+								<sc:para xml:space="preserve">Agenda Membres du projet : créneaux de l'emploi du temps permettant aux membres du groupe de se réunir et de collaborer</sc:para>
+								<sc:para xml:space="preserve">Agenda Tuteur du projet : organisation de rencontres (présentiel, à distance, mail, tel)</sc:para>
+								<sc:para xml:space="preserve">Agenda des cours FOENS : séances de travail portant sur les méthodes, les livrables</sc:para>
+							</of:txt>
+						</sp:txt>
+					</of:flow>
+				</sp:co>
+			</of:block>
+		</sp:info>
+		<sp:info>
+			<of:block>
+				<of:blockM>
+					<sp:title>TEC</sp:title>
+				</of:blockM>
+				<sp:co>
+					<of:flow>
+						<sp:txt>
+							<of:txt>
+								<sc:para xml:space="preserve">Date de la soutenance orale</sc:para>
+								<sc:para xml:space="preserve">Remise des livrables :</sc:para>
+								<sc:para xml:space="preserve">Rapport écrit</sc:para>
+								<sc:para xml:space="preserve">Dossier technique client</sc:para>
+							</of:txt>
+						</sp:txt>
+					</of:flow>
+				</sp:co>
+			</of:block>
+		</sp:info>
+	</of:fragment>
+</sc:item>

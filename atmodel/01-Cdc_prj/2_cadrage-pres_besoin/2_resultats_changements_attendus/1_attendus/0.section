@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>Panorama des attendus</sp:title>
+		</of:sectionM>
+		<sp:content>
+			<of:fragment>
+				<sp:info>
+					<of:block>
+						<of:blockM>
+							<sp:title><!--<comment xmlns="scenari.eu:comment:1.0" type="thread"><comment creationTime="1513005287619">matériels (installations physiques)</comment></comment>-->livrables “hard”</sp:title>
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">cf <sc:uLink role="def" sc:refUri="/00_references/LIVRABLE_HARD.refs">Livrable HARD</sc:uLink></sc:para>
+										<sc:para xml:space="preserve">L_001 :</sc:para>
+										<sc:para xml:space="preserve">L_002 :</sc:para>
+										<sc:para xml:space="preserve">L_004 :</sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+				<sp:info>
+					<of:block>
+						<of:blockM>
+							<sp:title><!--<comment xmlns="scenari.eu:comment:1.0" type="thread"><comment creationTime="1513005296186">documents, logiciels</comment></comment>-->livrables “soft”</sp:title>
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve"><sc:uLink role="def" sc:refUri="/00_references/LIVRABLE_SOFT.refs">Livrable SOFT</sc:uLink></sc:para>
+										<sc:para xml:space="preserve">L_003 :</sc:para>
+										<sc:para xml:space="preserve">L_005 :</sc:para>
+										<sc:para xml:space="preserve">L_008 :</sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+				<sp:info>
+					<of:block>
+						<of:blockM>
+							<sp:title><!--<comment xmlns="scenari.eu:comment:1.0" type="thread"><comment creationTime="1513005306690">formation, évolution des compétences et méthodes de travail</comment></comment>-->livrables “services”</sp:title>
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve"><sc:uLink role="def" sc:refUri="/00_references/LIVRABLE_SERV.refs">Livrable SERVICE</sc:uLink></sc:para>
+										<sc:para xml:space="preserve">L_006 :</sc:para>
+										<sc:para xml:space="preserve">L_007 :</sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+			</of:fragment>
+		</sp:content>
+	</of:section>
+</sc:item>

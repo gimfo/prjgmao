@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>Liste des sous-projets</sp:title>
+		</of:sectionM>
+		<sp:content>
+			<of:fragment>
+				<sp:info>
+					<of:block>
+						<of:blockM/>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">Votre site WEB concernant le projet contient autant de dossiers WEB que vous avez de sous-projets à gérer :</sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+				<sp:info>
+					<of:block>
+						<of:blockM/>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">Chaque projet comporte n <sc:uLink role="def" sc:refUri="/00_references/prj-Sous_projet-codification.refs">sous-projets</sc:uLink> <sc:phrase role="special"/></sc:para>
+										<sc:para xml:space="preserve">A titre d'exemple, un premier projet concerne l'ensemble des projets : il consiste à satisfaire votre besoin de réussir votre diplôme en obtenant la meilleure note possible pour ce module. En y parvenant, il y a des modules dépendants comme les modules TEC, OMM, ADE, INFO, PPP dans lesquels votre évaluation pourra être améliorée.</sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+				<sp:emphasis>
+					<of:block>
+						<of:blockM>
+							<sp:title>Exemple</sp:title>
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">Mr BENGANG sera chargé de la préparation de son évaluation dans le cadre d'un projet qu'il pourra codifier <sc:phrase role="special">prj_1-P03</sc:phrase></sc:para>
+										<sc:para xml:space="preserve"><sc:phrase role="special">prj_1-01</sc:phrase> sera pour le projet 1 la codification du sous-projet nommé "Assemblage imprimante 3D"</sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:emphasis>
+			</of:fragment>
+		</sp:content>
+		<sp:sec sc:refUri="/10-prj_x-P_yy/1_CdCF/0.section"/>
+	</of:section>
+</sc:item>

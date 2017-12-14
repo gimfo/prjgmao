@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>Panorama des attendus</sp:title>
+		</of:sectionM>
+		<sp:content>
+			<of:fragment>
+				<sp:info>
+					<of:block>
+						<of:blockM>
+							<sp:title><!--<comment xmlns="scenari.eu:comment:1.0" type="thread"><comment creationTime="1513005287619">matériels (installations physiques)</comment><comment creationTime="1513110068283">Le livrable L_005 est donné à titre d'exemple, ce n'est pas une obligation</comment><comment creationTime="1513110219081">On veillera dans le cas du L_005 à s'assurer que la phase de vie nommée "démo" soit bien étudiée. Prévoir notamment une phase de vie "installation" qui vous amènera à demander modification de la durée de L_004 si le jury doit être déplacé ou si vous avez un besoin en terme de ressource (délai d'installation entre deux soutenances, installation la veille). La maquette aura aussi sa phase de vie "test avant soutenance" pour vérifier son bon déroulement.</comment><comment creationTime="1513110465646">Les durées nécessaires, les ressources (salle ou lieu particulier), etc sont à préciser au secrétariat à une date de type Semaine -1 avant le Jury (par exemple)</comment></comment>-->livrables “hard”</sp:title>
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">L_005 : Maquette ou objet fabriqué en cas de besoin d'une démonstration.</sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+				<sp:info>
+					<of:block>
+						<of:blockM>
+							<sp:title><!--<comment xmlns="scenari.eu:comment:1.0" type="thread"><comment creationTime="1513005296186">documents, logiciels</comment><comment creationTime="1513110463758"/></comment>-->livrables “soft”</sp:title>
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">L_001 : Rapport écrit au format PDF généré par <sc:uLink role="def" sc:refUri="/00_references/OUTIL_SOFT_scenari_optimOffice.refs">Scenari OptimOffice</sc:uLink></sc:para>
+										<sc:para xml:space="preserve">L_002 : Site WEB sources identiques à L_001 compressé généré par <sc:uLink role="def" sc:refUri="/00_references/OUTIL_SOFT_scenari_optimOffice.refs">Scenari OptimOffice</sc:uLink></sc:para>
+										<sc:para xml:space="preserve">L_003 : Diaporama au format WEB généré par <sc:uLink role="def" sc:refUri="/00_references/OUTIL_SOFT_scenari_optimOffice.refs">Scenari OptimOffice</sc:uLink></sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+				<sp:info>
+					<of:block>
+						<of:blockM>
+							<sp:title><!--<comment xmlns="scenari.eu:comment:1.0" type="thread"><comment creationTime="1513005306690">formation, évolution des compétences et méthodes de travail</comment></comment>-->livrables “services”</sp:title>
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">L_004 : Prestation orale d'une durée de 10 mns destinée à vendre votre contribution au projet 2018-Px</sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+			</of:fragment>
+		</sp:content>
+	</of:section>
+</sc:item>

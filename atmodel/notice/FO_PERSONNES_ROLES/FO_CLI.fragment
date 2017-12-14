@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:fragment xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<sp:emphasis>
+			<of:block>
+				<of:blockM>
+					<sp:title>Objet</sp:title>
+				</of:blockM>
+				<sp:co>
+					<of:flow>
+						<sp:txt>
+							<of:txt>
+								<sc:para xml:space="preserve">Description du rôle/fonctions de <sc:uLink role="def" sc:refUri="/00_references/CLIENT_demandeur_payeur_projet.refs">CLIENT-Proj-GIM</sc:uLink></sc:para>
+							</of:txt>
+						</sp:txt>
+					</of:flow>
+				</sp:co>
+			</of:block>
+		</sp:emphasis>
+	</of:fragment>
+</sc:item>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:folder xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:folderM>
+			<sp:title>Projet xx - Sous-Projet yy</sp:title>
+		</of:folderM>
+		<sp:subPage sc:refUri="/notice/00-Sous-projets/01-CdCF/01-CdCF.webpage"/>
+	</of:folder>
+</sc:item>

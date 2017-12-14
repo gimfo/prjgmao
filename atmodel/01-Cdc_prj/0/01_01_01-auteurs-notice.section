@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>Auteurs - Qualité - Rôles (notice)</sp:title>
+		</of:sectionM>
+		<sp:sec>
+			<of:section>
+				<of:sectionM>
+					<sp:title>Responsable des projets</sp:title>
+				</of:sectionM>
+				<sp:content>
+					<of:fragment>
+						<sp:frag sc:refUri="/notice/FO_PERSONNES_ROLES/FO_RESP.fragment"/>
+					</of:fragment>
+				</sp:content>
+			</of:section>
+		</sp:sec>
+		<sp:sec>
+			<of:section>
+				<of:sectionM>
+					<sp:title>Tuteur du Projet</sp:title>
+				</of:sectionM>
+				<sp:content>
+					<of:fragment>
+						<sp:frag sc:refUri="/notice/FO_PERSONNES_ROLES/FO_TUTEUR_PRJ.fragment"/>
+					</of:fragment>
+				</sp:content>
+			</of:section>
+		</sp:sec>
+		<sp:sec>
+			<of:section>
+				<of:sectionM>
+					<sp:title>Client / Demandeur / Payeur</sp:title>
+				</of:sectionM>
+				<sp:content>
+					<of:fragment>
+						<sp:frag sc:refUri="/notice/FO_PERSONNES_ROLES/FO_CLI.fragment"/>
+					</of:fragment>
+				</sp:content>
+			</of:section>
+		</sp:sec>
+		<sp:sec>
+			<of:section>
+				<of:sectionM>
+					<sp:title>Membres étudiants</sp:title>
+				</of:sectionM>
+				<sp:content>
+					<of:fragment>
+						<sp:frag sc:refUri="/notice/FO_PERSONNES_ROLES/FO_ETUDIANT.fragment"/>
+					</of:fragment>
+				</sp:content>
+			</of:section>
+		</sp:sec>
+	</of:section>
+</sc:item>

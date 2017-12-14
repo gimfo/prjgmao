@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:fragment xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<sp:frag sc:refUri="/notice/FO_PERSONNES_ROLES/FO_RESP.fragment"/>
+		<sp:frag sc:refUri="/notice/FO_PERSONNES_ROLES/FO_CLI.fragment"/>
+		<sp:frag sc:refUri="/notice/FO_PERSONNES_ROLES/FO_TUTEUR_PRJ.fragment"/>
+		<sp:frag sc:refUri="/notice/FO_PERSONNES_ROLES/FO_ETUDIANT.fragment"/>
+	</of:fragment>
+</sc:item>

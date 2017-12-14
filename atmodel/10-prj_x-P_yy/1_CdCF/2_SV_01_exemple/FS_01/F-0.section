@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>FS_01 : &lt;libellé&gt;</sp:title>
+		</of:sectionM>
+		<sp:content>
+			<of:fragment>
+				<sp:info>
+					<of:block>
+						<of:blockM>
+							<!--<comment xmlns="scenari.eu:comment:1.0" type="thread"><comment creationTime="1513090749548">x pour P/S/C/L</comment></comment>-->
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">...</sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+			</of:fragment>
+		</sp:content>
+		<sp:sec sc:refUri="/10-prj_x-P_yy/1_CdCF/2_SV_01_exemple/FS_01/F-1-critères.section"/>
+		<sp:sec sc:refUri="/10-prj_x-P_yy/1_CdCF/2_SV_01_exemple/FS_01/F-2-elements.section"/>
+	</of:section>
+</sc:item>

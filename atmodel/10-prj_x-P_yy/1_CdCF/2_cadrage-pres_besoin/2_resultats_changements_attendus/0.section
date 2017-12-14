@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>Résultats et changements attendus</sp:title>
+		</of:sectionM>
+		<sp:sec sc:refUri="/10-prj_x-P_yy/1_CdCF/2_cadrage-pres_besoin/2_resultats_changements_attendus/1_attendus/0.section"/>
+		<sp:sec sc:refUri="/10-prj_x-P_yy/1_CdCF/2_cadrage-pres_besoin/2_resultats_changements_attendus/2_paramètres de départ.section"/>
+		<sp:sec sc:refUri="/10-prj_x-P_yy/1_CdCF/2_cadrage-pres_besoin/2_resultats_changements_attendus/3_dependances_externes.section"/>
+	</of:section>
+</sc:item>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:slideshow xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:slideshowM/>
+		<sp:slide sc:refUri="/01-Cdc_prj/0/01_01_01-auteurs-notice.section"/>
+	</of:slideshow>
+</sc:item>

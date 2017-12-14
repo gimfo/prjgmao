@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>Auteurs - Expression du Besoin</sp:title>
+		</of:sectionM>
+		<sp:sec sc:refUri="/01-Cdc_prj/0/01_01_01-auteurs-notice.section"/>
+		<sp:sec>
+			<of:section>
+				<of:sectionM>
+					<sp:title>Historique - Révisions</sp:title>
+				</of:sectionM>
+				<sp:content>
+					<of:fragment>
+						<sp:frag sc:refUri="/01-Cdc_prj/0/fragments/resp-01_01_02-historique_revisions.fragment"/>
+					</of:fragment>
+				</sp:content>
+			</of:section>
+		</sp:sec>
+		<sp:sec>
+			<of:section>
+				<of:sectionM>
+					<sp:title>Validations</sp:title>
+				</of:sectionM>
+				<sp:content>
+					<of:fragment>
+						<sp:frag sc:refUri="/01-Cdc_prj/0/fragments/resp-01_01_03-validations.fragment"/>
+					</of:fragment>
+				</sp:content>
+			</of:section>
+		</sp:sec>
+	</of:section>
+</sc:item>

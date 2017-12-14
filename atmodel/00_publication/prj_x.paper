@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:paper xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:paperM>
+			<sp:title>Projet 2018-Px-Modèle</sp:title>
+			<sp:optsPub>
+				<sp:paperRpt>
+					<of:optsPubOdtM>
+						<sp:struct>
+							<sp:gloss>yes</sp:gloss>
+						</sp:struct>
+					</of:optsPubOdtM>
+				</sp:paperRpt>
+			</sp:optsPub>
+		</of:paperM>
+		<sp:pre>
+			<of:section>
+				<of:sectionM>
+					<sp:title>Liste des sous-projets</sp:title>
+				</of:sectionM>
+			</of:section>
+		</sp:pre>
+		<sp:chap sc:refUri="/01-Cdc_prj/0.section"/>
+		<sp:chap sc:refUri="/02-CdCG/0.section"/>
+		<sp:chap sc:refUri="/03-dev/0.section"/>
+	</of:paper>
+</sc:item>

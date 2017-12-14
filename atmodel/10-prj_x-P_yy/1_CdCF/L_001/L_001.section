@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>SOFT-02 : livrable n°2</sp:title>
+		</of:sectionM>
+		<sp:content>
+			<of:fragment>
+				<sp:info>
+					<of:block>
+						<of:blockM>
+							<sp:title><!--<comment xmlns="scenari.eu:comment:1.0" type="thread"><comment creationTime="1513016206386">Approche par analyse fonctionnelle (APTE ou autres outils)</comment><comment creationTime="1513016258742" updateTime="1513016571885">Une section par phase de vie -~-&gt; ce qui suit est un simple exemple</comment></comment>-->Lister les Phases de vie et environnement</sp:title>
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:orderedList>
+											<sc:listItem>
+												<sc:para xml:space="preserve">existant</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">(re-)conception</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">simulation</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">rédaction de document (outils), programmation (langage)</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">test-essai de lecture d'utilisation</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">utilisation (notice)</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">maintenance du document, du code</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">recyclage-fin de vie-réutilisation</sc:para>
+											</sc:listItem>
+										</sc:orderedList>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+			</of:fragment>
+		</sp:content>
+	</of:section>
+</sc:item>

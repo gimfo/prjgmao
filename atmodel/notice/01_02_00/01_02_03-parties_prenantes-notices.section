@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>Parties prenantes</sp:title>
+		</of:sectionM>
+		<sp:content>
+			<of:fragment>
+				<sp:info>
+					<of:block>
+						<of:blockM/>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">L'objectif de cette partie est de recenser exhaustivement tous les acteurs concernés par le projet et ses conséquences. On veillera à inclure dans le groupe d'expression du besoin qui rédige ce cahier des charges des représentants</sc:para>
+										<sc:para xml:space="preserve">Commanditaires,</sc:para>
+										<sc:itemizedList>
+											<sc:listItem>
+												<sc:para xml:space="preserve">initiateurs du projet, client, maître d'ouvrage, financeur ...</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">responsable de la validation de ce cahier des charges</sc:para>
+											</sc:listItem>
+										</sc:itemizedList>
+										<sc:para xml:space="preserve">Équipe de réalisation (souvent en cours de constitution)</sc:para>
+										<sc:itemizedList>
+											<sc:listItem>
+												<sc:para xml:space="preserve">chef de projet --&gt; <sc:uLink role="def" sc:refUri="/00_references/TUTEUR_projet.refs">TUTEUR</sc:uLink></sc:para>
+											</sc:listItem>
+										</sc:itemizedList>
+										<sc:itemizedList>
+											<sc:listItem>
+												<sc:para xml:space="preserve">responsables des différent pôles --&gt; 1 pôle = 1 sous-projet avec 1 responsable ou chef de sous-projet <sc:uLink role="def" sc:refUri="/00_references/ETUDIANT-P_xx.refs">ETUDIANT</sc:uLink></sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">membres de l'équipe</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">prestataires / consultants</sc:para>
+											</sc:listItem>
+										</sc:itemizedList>
+										<sc:para xml:space="preserve">Autres parties prenantes</sc:para>
+										<sc:itemizedList>
+											<sc:listItem>
+												<sc:para xml:space="preserve">utilisateur finaux</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">soutiens et opposants au projet</sc:para>
+											</sc:listItem>
+											<sc:listItem>
+												<sc:para xml:space="preserve">personnes-ressources et experts..</sc:para>
+											</sc:listItem>
+										</sc:itemizedList>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+			</of:fragment>
+		</sp:content>
+	</of:section>
+</sc:item>

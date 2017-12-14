@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:page xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:pageM/>
+		<sp:main>
+			<of:section>
+				<of:sectionM>
+					<sp:title>Notice</sp:title>
+				</of:sectionM>
+				<sp:sec sc:refUri="/01-Cdc_prj/0/0_notice.section"/>
+			</of:section>
+		</sp:main>
+		<sp:subPage sc:refUri="/01-Cdc_prj/0.section"/>
+	</of:page>
+</sc:item>

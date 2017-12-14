@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:fragment xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<sp:info>
+			<of:block>
+				<of:blockM>
+					<sp:title>Panorama des attendus</sp:title>
+					<!--<comment xmlns="scenari.eu:comment:1.0" type="thread"><comment creationTime="1512997760605">Chaque point pourra faire l'objet d'une sous-section</comment></comment>-->
+				</of:blockM>
+				<sp:co>
+					<of:flow>
+						<sp:txt>
+							<of:txt>
+								<sc:itemizedList>
+									<sc:listItem>
+										<sc:para xml:space="preserve">livrables “hard” : matériels (installations physiques)</sc:para>
+									</sc:listItem>
+									<sc:listItem>
+										<sc:para xml:space="preserve">livrables “soft” : documents, logiciels</sc:para>
+									</sc:listItem>
+									<sc:listItem>
+										<sc:para xml:space="preserve">livrables “services” : formation, évolution des compétences et méthodes de travail</sc:para>
+									</sc:listItem>
+								</sc:itemizedList>
+							</of:txt>
+						</sp:txt>
+					</of:flow>
+				</sp:co>
+			</of:block>
+		</sp:info>
+	</of:fragment>
+</sc:item>

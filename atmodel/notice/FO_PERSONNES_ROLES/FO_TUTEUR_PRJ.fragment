@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:fragment xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<sp:emphasis>
+			<of:block>
+				<of:blockM>
+					<sp:title>Objet</sp:title>
+				</of:blockM>
+				<sp:co>
+					<of:flow>
+						<sp:txt>
+							<of:txt>
+								<sc:para xml:space="preserve">Description du rôle/fonctions de <sc:uLink role="def" sc:refUri="/00_references/TUTEUR_projet.refs">TUTEUR-Proj-GIM</sc:uLink></sc:para>
+							</of:txt>
+						</sp:txt>
+					</of:flow>
+				</sp:co>
+			</of:block>
+		</sp:emphasis>
+		<sp:info>
+			<of:block>
+				<of:blockM>
+					<sp:title>Rencontres</sp:title>
+				</of:blockM>
+				<sp:co>
+					<of:flow>
+						<sp:txt>
+							<of:txt>
+								<sc:para xml:space="preserve">Prise de RDV (déclenchée par le <sc:uLink role="def" sc:refUri="/00_references/TUTEUR_projet.refs">TUTEUR</sc:uLink> ou l'<sc:uLink role="def" sc:refUri="/00_references/ETUDIANT-P_xx.refs">ETUDIANT</sc:uLink>)</sc:para>
+							</of:txt>
+						</sp:txt>
+					</of:flow>
+				</sp:co>
+			</of:block>
+		</sp:info>
+		<sp:info>
+			<of:block>
+				<of:blockM>
+					<sp:title>Ressource</sp:title>
+				</of:blockM>
+				<sp:co>
+					<of:flow>
+						<sp:txt>
+							<of:txt>
+								<sc:para xml:space="preserve">Lecteur/Correcteur de divers documents</sc:para>
+								<sc:para xml:space="preserve">Conseil Méthode</sc:para>
+								<sc:para xml:space="preserve">Expertise technique</sc:para>
+							</of:txt>
+						</sp:txt>
+					</of:flow>
+				</sp:co>
+			</of:block>
+		</sp:info>
+	</of:fragment>
+</sc:item>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:mediaWeb xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:animM>
+			<sp:title>Agenda</sp:title>
+		</of:animM>
+		<sp:unknown>
+			<of:mwUnM>
+				<sp:frag>&lt;xhtml:iframe xmlns:xhtml=&quot;http://www.w3.org/1999/xhtml&quot; width=&quot;800&quot; height=&quot;600&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border: 0&quot; src=&quot;https://calendar.google.com/calendar/embed?src=hcf4vq375mgbcoovb6vdc6ksj4%40group.calendar.google.com&amp;amp;ctz=Europe%2FParis&quot;&gt;&lt;/xhtml:iframe&gt;</sp:frag>
+			</of:mwUnM>
+		</sp:unknown>
+	</of:mediaWeb>
+</sc:item>

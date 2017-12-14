@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>Situation de vie 1 : nom donné</sp:title>
+		</of:sectionM>
+		<sp:content>
+			<of:fragment>
+				<sp:info>
+					<of:block>
+						<of:blockM>
+							<!--<comment xmlns="scenari.eu:comment:1.0" type="thread"><comment creationTime="1513147445176">Attention, cet exemple fait référence au projet personnel jury</comment></comment>-->
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">...</sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+			</of:fragment>
+		</sp:content>
+		<sp:sec sc:refUri="/10-prj_x-P_yy/1_CdCF/2_SV_01_exemple/1_Diagramme_env.section"/>
+		<sp:sec sc:refUri="/10-prj_x-P_yy/1_CdCF/2_SV_01_exemple/2-FP.section"/>
+		<sp:sec sc:refUri="/10-prj_x-P_yy/1_CdCF/2_SV_01_exemple/01_/FS.section"/>
+		<sp:sec sc:refUri="/10-prj_x-P_yy/1_CdCF/2_SV_01_exemple/4-FC.section"/>
+	</of:section>
+</sc:item>

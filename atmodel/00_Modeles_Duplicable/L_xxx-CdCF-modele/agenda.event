@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:event xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:eventM>
+			<sp:title>L_xxx : Parties prenantes</sp:title>
+			<sp:date>30 Avril 2018</sp:date>
+		</of:eventM>
+		<sp:co>
+			<of:flow>
+				<sp:txt>
+					<of:txt>
+						<sc:para xml:space="preserve">Parties prenantes concernées : <sc:uLink role="def" sc:refUri="/00_references/LIVRABLE_EVAL.refs">EVAL - RESPPRJ</sc:uLink>.</sc:para>
+					</of:txt>
+				</sp:txt>
+			</of:flow>
+		</sp:co>
+	</of:event>
+</sc:item>

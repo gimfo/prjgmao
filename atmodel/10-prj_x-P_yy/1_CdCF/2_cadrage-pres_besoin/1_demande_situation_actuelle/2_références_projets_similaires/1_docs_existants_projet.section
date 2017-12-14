@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>Documents existants pour ce projet</sp:title>
+		</of:sectionM>
+		<sp:content>
+			<of:fragment>
+				<sp:info>
+					<of:block>
+						<of:blockM>
+							<!--<comment xmlns="scenari.eu:comment:1.0" type="thread"><comment creationTime="1513109841354">Insérer vos docuements dans un espace nommé ress</comment></comment>-->
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">PPN DUT GIM (Lien WEB)</sc:para>
+										<sc:para xml:space="preserve">Trame du CdCF à respecter (modifications possibles) (<sc:uLink role="def" sc:refUri="/00_references/RESP_PRJ_GIM-FO.refs">FORESP</sc:uLink>)--&gt; modèle partiellement rempli ou initialisé à titre d'exemple</sc:para>
+										<sc:para xml:space="preserve">Fiche d'évaluation d'une soutenance orale (secrétaire GIM)</sc:para>
+										<sc:para xml:space="preserve">Fiche d'évaluation d'un rapport écrit (secrétaire GIM)</sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+			</of:fragment>
+		</sp:content>
+	</of:section>
+</sc:item>

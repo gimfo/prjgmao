@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:def xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:defM>
+			<sp:term>Livrable SOFT</sp:term>
+		</of:defM>
+		<sp:def>
+			<of:sTxt>
+				<sc:para xml:space="preserve">Documents ( format ? sources ? lecteurs ? rédacteurs ? modèle ?), logiciels (conception de programme, base de données, modèles)</sc:para>
+				<sc:para xml:space="preserve">Rapport écrit de projet, de stage :</sc:para>
+				<sc:para xml:space="preserve">Support de présentation orale :</sc:para>
+				<sc:para xml:space="preserve">Mode opératoire associé à une ou plusieurs tâches (lié à une fonction d'un système), intégré dans un dossier technique ou plusieurs ?</sc:para>
+				<sc:para xml:space="preserve">Notice d'utilisation d'un livrable identifié (lié à dossier technique ?)</sc:para>
+				<sc:para xml:space="preserve">Dossier technique constructeur système ou matériel (lié à un livrable HARD)</sc:para>
+				<sc:para xml:space="preserve">Dossier technique maintenance système ou matériel</sc:para>
+			</of:sTxt>
+		</sp:def>
+	</of:def>
+</sc:item>

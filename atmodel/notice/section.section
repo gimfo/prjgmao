@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:section xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:sectionM>
+			<sp:title>Expression du besoin</sp:title>
+		</of:sectionM>
+		<sp:content>
+			<of:fragment>
+				<sp:info>
+					<of:filter/>
+					<of:block>
+						<of:blockM/>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">Une formation (vidéo, quiz d'entraînement exercice d'application corrigé) est à votre disposition https://perfectionnement.gestiondeprojet.pm dans la section “cahier des charges”</sc:para>
+										<sc:para xml:space="preserve">Principales parties de ce cahier des charges :</sc:para>
+										<sc:para xml:space="preserve">Groupe d'expression du besoin et suivi des révisions/validations</sc:para>
+										<sc:para xml:space="preserve">Présentation générale</sc:para>
+										<sc:para xml:space="preserve">Expression détaillée du besoin</sc:para>
+										<sc:para xml:space="preserve">Phases du cycle de vie et environnement</sc:para>
+										<sc:para xml:space="preserve">Liste des fonctions/services attendus</sc:para>
+										<sc:para xml:space="preserve">Informations complémentaires</sc:para>
+										<sc:para xml:space="preserve">Planning</sc:para>
+										<sc:para xml:space="preserve">Budget</sc:para>
+										<sc:para xml:space="preserve">Points de vigilance</sc:para>
+										<sc:para xml:space="preserve">Auteurs de ce cahier des charges / groupe d'expression du besoin</sc:para>
+										<sc:para xml:space="preserve">Nom / mél</sc:para>
+										<sc:para xml:space="preserve">Qualité / rôle</sc:para>
+										<sc:para xml:space="preserve">Paul Legris / pl@projet.pm</sc:para>
+										<sc:para xml:space="preserve">Chef de Projet / Responsable du cahier des charges</sc:para>
+										<sc:para xml:space="preserve">Commanditaire / Chef de département ingénierie</sc:para>
+										<sc:para xml:space="preserve">Client / Chef de département vente</sc:para>
+										<sc:para xml:space="preserve">Client / Utilisateur “au quotidien” du nouveau système</sc:para>
+										<sc:para xml:space="preserve">Projet / Coordonnateur pôle codage</sc:para>
+										<sc:para xml:space="preserve">Projet / Coordonnateur marketing</sc:para>
+										<sc:para xml:space="preserve">Historique des modifications et révisions de ce document</sc:para>
+										<sc:para xml:space="preserve">n° de version</sc:para>
+										<sc:para xml:space="preserve">Date</sc:para>
+										<sc:para xml:space="preserve">Description et circonstances de la modification</sc:para>
+										<sc:para xml:space="preserve">V 0.1</sc:para>
+										<sc:para xml:space="preserve">Brouillon : première version suite à la réunion initiale du groupe d'expression du besoin</sc:para>
+										<sc:para xml:space="preserve">V 1</sc:para>
+										<sc:para xml:space="preserve">Clôture du groupe d'expression du besoin : version proposée au commanditaire pour approbation</sc:para>
+										<sc:para xml:space="preserve">V 1.1</sc:para>
+										<sc:para xml:space="preserve">Cahier des charges validé par le commanditaire pour lancement du projet</sc:para>
+										<sc:para xml:space="preserve">Validations</sc:para>
+										<sc:para xml:space="preserve">n° de version</sc:para>
+										<sc:para xml:space="preserve">Nom / qualité</sc:para>
+										<sc:para xml:space="preserve">Date / signature</sc:para>
+										<sc:para xml:space="preserve">Commentaires et réserves éventuelles</sc:para>
+										<sc:para xml:space="preserve">V 1.1</sc:para>
+										<sc:para xml:space="preserve">Commanditaire</sc:para>
+										<sc:para xml:space="preserve">OK pour valider. Reste à détailler la phase “recyclage”</sc:para>
+										<sc:para xml:space="preserve">TABLE DES MATIÈRES</sc:para>
+										<sc:para xml:space="preserve">Cadrage - présentation générale du besoin</sc:para>
+										<sc:para xml:space="preserve">Demande et situation actuelle</sc:para>
+										<sc:para xml:space="preserve">Résultats et changements attendus</sc:para>
+										<sc:para xml:space="preserve">Parties prenantes</sc:para>
+										<sc:para xml:space="preserve">Expression détaillée du besoin</sc:para>
+										<sc:para xml:space="preserve">Phases du cycle de vie et leur environnement</sc:para>
+										<sc:para xml:space="preserve">Liste des fonctions/services attendus</sc:para>
+										<sc:para xml:space="preserve">Caractérisation de chaque fonction</sc:para>
+										<sc:para xml:space="preserve">Informations complémentaires</sc:para>
+										<sc:para xml:space="preserve">Contraintes de planning</sc:para>
+										<sc:para xml:space="preserve">Contraintes de budget</sc:para>
+										<sc:para xml:space="preserve">Annexes</sc:para>
+										<sc:para xml:space="preserve">Documents utiles :</sc:para>
+										<sc:para xml:space="preserve">Cadrage - présentation générale du besoin</sc:para>
+										<sc:para xml:space="preserve">Demande et situation actuelle</sc:para>
+										<sc:para xml:space="preserve">Demande d'origine du client</sc:para>
+										<sc:para xml:space="preserve">historique et état de l'existant (solutions actuelles)</sc:para>
+										<sc:para xml:space="preserve">hypothèses et conditions à remplir pour le démarrage du projet</sc:para>
+										<sc:para xml:space="preserve">importance de la réponse au besoin (contribution au plan stratégique du commanditaire par exemple).</sc:para>
+										<sc:para xml:space="preserve">Références / projets similaires</sc:para>
+										<sc:para xml:space="preserve">documents existants :</sc:para>
+										<sc:para xml:space="preserve">de ce projet charte de projet, lettre de mission etc..</sc:para>
+										<sc:para xml:space="preserve">des autres projets ou d'autres sources : études de marché, post-mortem des projets précédents ...</sc:para>
+										<sc:para xml:space="preserve">Ce qui marche / ce qui ne marche pas :</sc:para>
+										<sc:para xml:space="preserve">solutions déjà explorées, exclues</sc:para>
+										<sc:para xml:space="preserve">solutions conseillées, mises en oeuvre par les concurrents</sc:para>
+										<sc:para xml:space="preserve">Résultats et changements attendus</sc:para>
+										<sc:para xml:space="preserve">panorama des attendus</sc:para>
+										<sc:para xml:space="preserve">livrables “hard” : matériels (installations physiques)</sc:para>
+										<sc:para xml:space="preserve">livrables “soft” : documents, logiciels</sc:para>
+										<sc:para xml:space="preserve">livrables “services” : formation, évolution des compétences et méthodes de travail</sc:para>
+										<sc:para xml:space="preserve">Périmètre de départ :</sc:para>
+										<sc:para xml:space="preserve">ce qui peut évoluer, être changé</sc:para>
+										<sc:para xml:space="preserve">ce qui impacte le projet, mais est pris en charge par d'autres acteurs ou prestataires</sc:para>
+										<sc:para xml:space="preserve">Dépendances externes : ce qui ne peut pas être changé par le projet</sc:para>
+										<sc:para xml:space="preserve">Principales contraintes - par exemple licences et brevets, règles environnementales (recyclage), légales, de sécurité ...</sc:para>
+										<sc:para xml:space="preserve">Parties prenantes</sc:para>
+										<sc:para xml:space="preserve">L'objectif de cette partie est de recenser exhaustivement tous les acteurs concernés par le projet et ses conséquences. On veillera à inclure dans le groupe d'expression du besoin qui rédige ce cahier des charges des représentants</sc:para>
+										<sc:para xml:space="preserve">Commanditaires,</sc:para>
+										<sc:para xml:space="preserve">initiateurs du projet, client, maître d'ouvrage, financeur ...</sc:para>
+										<sc:para xml:space="preserve">responsable de la validation de ce cahier des charges</sc:para>
+										<sc:para xml:space="preserve">Équipe de réalisation (souvent en cours de constitution)</sc:para>
+										<sc:para xml:space="preserve">chef de projet</sc:para>
+										<sc:para xml:space="preserve">responsables des différent pôles</sc:para>
+										<sc:para xml:space="preserve">membres de l'équipe</sc:para>
+										<sc:para xml:space="preserve">prestataires / consultants</sc:para>
+										<sc:para xml:space="preserve">Autres parties prenantes</sc:para>
+										<sc:para xml:space="preserve">utilisateur finaux</sc:para>
+										<sc:para xml:space="preserve">soutiens et opposants au projet</sc:para>
+										<sc:para xml:space="preserve">personnes-ressources et experts..</sc:para>
+										<sc:para xml:space="preserve">Expression détaillée du besoin</sc:para>
+										<sc:para xml:space="preserve">Pour chacun des livrables attendus (soft, hard, service..)</sc:para>
+										<sc:para xml:space="preserve">Phases du cycle de vie et leur environnement</sc:para>
+										<sc:para xml:space="preserve">ici, on utilise comme exemple une approche d'analyse fonctionnelle, mais d'autres outils peuvent être mis en oeuvre, notamment les cas d'utilisation avec UML.</sc:para>
+										<sc:para xml:space="preserve">Lister toutes les phases du cycle de vie du système : Fabrication, test, mise en route, utilisation, dépannage, panne de courant, recyclage...</sc:para>
+										<sc:para xml:space="preserve">Pour chaque situation de vie, le groupe de travail identifie les éléments d'environnement du livrable et réalise un schéma</sc:para>
+										<sc:para xml:space="preserve">exemple d'environnement avec le cas d'un stylo en situation de vie “utilisation en classe”</sc:para>
+										<sc:para xml:space="preserve">Liste des fonctions/services attendus</sc:para>
+										<sc:para xml:space="preserve">Quelles fonctions à assurer ?</sc:para>
+										<sc:para xml:space="preserve">Le groupe de travail complète le diagramme précédent en ajoutant les fonctions et en les nommant</sc:para>
+										<sc:para xml:space="preserve">concevoir.</sc:para>
+										<sc:para xml:space="preserve">Caractérisation de chaque fonction</sc:para>
+										<sc:para xml:space="preserve">(les fonctions prioritaires sont caractérisées en détails, celles qui sont secondaires plus brièvement).</sc:para>
+										<sc:para xml:space="preserve">Fonction 1 : Priorité 4</sc:para>
+										<sc:para xml:space="preserve">N°</sc:para>
+										<sc:para xml:space="preserve">Intitulé</sc:para>
+										<sc:para xml:space="preserve">Mot détaillé</sc:para>
+										<sc:para xml:space="preserve">Critère</sc:para>
+										<sc:para xml:space="preserve">Niveau et limites</sc:para>
+										<sc:para xml:space="preserve">Priorité</sc:para>
+										<sc:para xml:space="preserve">F1</sc:para>
+										<sc:para xml:space="preserve">Permettre à la main de laisser une trace sur du papier</sc:para>
+										<sc:para xml:space="preserve">trace</sc:para>
+										<sc:para xml:space="preserve">Longueur</sc:para>
+										<sc:para xml:space="preserve">1km +- 500m</sc:para>
+										<sc:para xml:space="preserve">1</sc:para>
+										<sc:para xml:space="preserve">Couleur</sc:para>
+										<sc:para xml:space="preserve">Noir uniquement</sc:para>
+										<sc:para xml:space="preserve">4</sc:para>
+										<sc:para xml:space="preserve">Largeur</sc:para>
+										<sc:para xml:space="preserve">0.5 mm</sc:para>
+										<sc:para xml:space="preserve">3</sc:para>
+										<sc:para xml:space="preserve">papier</sc:para>
+										<sc:para xml:space="preserve">nature</sc:para>
+										<sc:para xml:space="preserve">papier, carton, mur</sc:para>
+										<sc:para xml:space="preserve">2</sc:para>
+										<sc:para xml:space="preserve">position</sc:para>
+										<sc:para xml:space="preserve">horizontale ou verticale</sc:para>
+										<sc:para xml:space="preserve">1</sc:para>
+										<sc:para xml:space="preserve">Informations complémentaires</sc:para>
+										<sc:para xml:space="preserve">On consigne ici toutes les informations complémentaires qui n'ont pu s'exprimer sous forme de fonctions, notamment deux types de données..</sc:para>
+										<sc:para xml:space="preserve">Contraintes de planning</sc:para>
+										<sc:para xml:space="preserve">Grandes échéances “macro”</sc:para>
+										<sc:para xml:space="preserve">Dates/jalons s'ils sont impératifs</sc:para>
+										<sc:para xml:space="preserve">Contraintes de budget</sc:para>
+										<sc:para xml:space="preserve">Budget et moyens dédiés au projet</sc:para>
+										<sc:para xml:space="preserve">Annexes</sc:para>
+										<sc:para xml:space="preserve">Documents utiles :</sc:para>
+										<sc:para xml:space="preserve">Cours d'analyse fonctionnelle en vidéo,</sc:para>
+										<sc:para xml:space="preserve">Guide de l'analyse fonctionnelle avec une FAQ, rédiger un Cahier des charges fonctionnel</sc:para>
+										<sc:para xml:space="preserve">Exercices d'analyse fonctionnelle</sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:info>
+			</of:fragment>
+		</sp:content>
+	</of:section>
+</sc:item>
